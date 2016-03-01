@@ -64,3 +64,4 @@ group :production do
   gem "rails_12factor"
   gem "pg"
 end
+gem 'shopify_api'
